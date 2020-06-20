@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="carddoc-admin:war">
+    <output-path>$PROJECT_DIR$/../carddoc-main/carddoc-admin/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>carddoc-admin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="carddoc-admin.war">
+      <element id="artifact" artifact-name="carddoc-admin:war exploded" />
+    </root>
+  </artifact>
+</component>

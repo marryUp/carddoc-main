@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../carddoc-main/carddoc-admin/carddoc-admin.iml" filepath="$PROJECT_DIR$/../carddoc-main/carddoc-admin/carddoc-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../carddoc-main/carddoc-agent/carddoc-agent.iml" filepath="$PROJECT_DIR$/../carddoc-main/carddoc-agent/carddoc-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../carddoc-main/carddoc-api/carddoc-api.iml" filepath="$PROJECT_DIR$/../carddoc-main/carddoc-api/carddoc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../carddoc-main/carddoc-common/carddoc-common.iml" filepath="$PROJECT_DIR$/../carddoc-main/carddoc-common/carddoc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../carddoc-main/carddoc-h5/carddoc-h5.iml" filepath="$PROJECT_DIR$/../carddoc-main/carddoc-h5/carddoc-h5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../carddoc-main/carddoc-main.iml" filepath="$PROJECT_DIR$/../carddoc-main/carddoc-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../carddoc-main/carddoc-server/carddoc-server.iml" filepath="$PROJECT_DIR$/../carddoc-main/carddoc-server/carddoc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../carddoc-main/carddoc-timer/carddoc-timer.iml" filepath="$PROJECT_DIR$/../carddoc-main/carddoc-timer/carddoc-timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis-generator-gui-master/mybatis-generator-gui-master/mybatis-generator-gui.iml" filepath="$PROJECT_DIR$/../mybatis-generator-gui-master/mybatis-generator-gui-master/mybatis-generator-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_util/mybatis-generator-gui-master/mybatis-generator-gui (1).iml" filepath="$PROJECT_DIR$/../mybatis_util/mybatis-generator-gui-master/mybatis-generator-gui (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_workspace/mybatis-generator-gui-master/mybatis-generator-gui (2).iml" filepath="$PROJECT_DIR$/../test_workspace/mybatis-generator-gui-master/mybatis-generator-gui (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_main.iml" filepath="$PROJECT_DIR$/test_main.iml" />
+    </modules>
+  </component>
+</project>

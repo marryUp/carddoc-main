@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-generator-gui (1)" />
+        <module name="carddoc-timer" />
+        <module name="carddoc-agent" />
+        <module name="mybatis-generator-gui (2)" />
+        <module name="carddoc-server" />
+        <module name="carddoc-h5" />
+        <module name="carddoc-api" />
+        <module name="mybatis-generator-gui" />
+        <module name="carddoc-admin" />
+        <module name="carddoc-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="carddoc-admin" target="1.8" />
+      <module name="carddoc-agent" target="1.8" />
+      <module name="carddoc-api" target="1.8" />
+      <module name="carddoc-common" target="1.8" />
+      <module name="carddoc-h5" target="1.8" />
+      <module name="carddoc-main" target="1.8" />
+      <module name="carddoc-server" target="1.8" />
+      <module name="carddoc-timer" target="1.8" />
+      <module name="mybatis-generator-gui" target="1.8" />
+      <module name="mybatis-generator-gui (1)" target="1.8" />
+      <module name="mybatis-generator-gui (2)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="carddoc-timer" options="-extdirs D:\carddoc-main\carddoc-timer/lib" />
+    </option>
+  </component>
+</project>

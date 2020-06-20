@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-admin/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-agent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-agent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-agent/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-api/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-h5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-h5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-h5/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-server/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-timer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-timer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../carddoc-main/carddoc-timer/src/main/resources/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mybatis-generator-gui-master/mybatis-generator-gui-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mybatis-generator-gui-master/mybatis-generator-gui-master/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mybatis_util/mybatis-generator-gui-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mybatis_util/mybatis-generator-gui-master/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test_workspace/mybatis-generator-gui-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test_workspace/mybatis-generator-gui-master/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
